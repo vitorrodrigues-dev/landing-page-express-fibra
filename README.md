@@ -196,3 +196,10 @@ Clone o repositório e abra o `index.html` diretamente no navegador, ou acesse p
 ---
 
 *Feito com muito estudo, muita pesquisa e a convicção de que a melhor forma de aprender é construindo algo real.*
+
+
+## Aviso
+
+Este projeto foi publicado exclusivamente para fins educacionais e de portfólio profissional.
+
+Consulte o arquivo `NOTICE.md` para informações sobre uso e direitos.
